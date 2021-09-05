@@ -4,7 +4,7 @@ export default function Header() {
         <div>
             <ul>
                 <li>
-                    TRANG CHU
+                    TRANG CHU THAI CUONG
                 </li>
             </ul>
         </div>
